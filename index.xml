@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Guanhua’s Blog</title>
     <link>https://www.guanhua.org/</link>
-    <description>My New Hugo Site</description>
+    <description>Guanhua’s Blog</description>
     <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 17:10:04 &#43;0800</lastBuildDate>
       <atom:link href="https://www.guanhua.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
