@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>所想 - 分类 - Guanhua’s Blog</title>
+    <link>https://www.guanhua.org/categories/%E6%89%80%E6%83%B3/</link>
+    <description>所想 - 分类 | Guanhua’s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 17:10:04 &#43;0800</lastBuildDate><atom:link href="https://www.guanhua.org/categories/%E6%89%80%E6%83%B3/" rel="self" type="application/rss+xml" /><item>
+  <title>Hello World</title>
+  <link>https://www.guanhua.org/posts/my-first-post/</link>
+  <pubDate>Mon, 01 Jul 2024 17:10:04 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://www.guanhua.org/posts/my-first-post/</guid>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="images/cover_917484.png" alt="Hello World" title="Hello World" referrerpolicy="no-referrer"/></div>缘由 写blog的想法不知萌生了多少次，服务器每年都买一次，但是每次要不是半途而废，或者因为一些事搁浅了，其实就是自己不够坚持，所以人总要逼自己一把。
+希望在此借由文字或图片记录生活、以后老了还能作为一个回忆。
+VMCL 潮流的那些年 ]]></description>
+</item>
+</channel>
+</rss>
