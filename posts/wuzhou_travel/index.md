@@ -25,5 +25,5 @@
 ---
 
 > 作者: guanhua  
-> URL: https://www.guanhua.org/posts/wuzhou_travel/  
+> URL: http://localhost:1313/posts/wuzhou_travel/  
 
