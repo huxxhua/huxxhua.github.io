@@ -7,5 +7,5 @@
 ---
 
 > 作者: guanhua  
-> URL: http://localhost:1313/posts/build-blog-by-hugo/  
+> URL: https://www.guanhua.org/posts/build-blog-by-hugo/  
 

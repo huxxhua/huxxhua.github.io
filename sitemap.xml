@@ -2,10 +2,14 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://www.guanhua.org/</loc><lastmod>2024-07-15T10:01:27&#43;08:00</lastmod></url><url>
-      <loc>https://www.guanhua.org/posts/</loc><lastmod>2024-07-15T10:01:27&#43;08:00</lastmod></url><url>
-      <loc>https://www.guanhua.org/categories/</loc><lastmod>2024-07-15T09:57:13&#43;08:00</lastmod></url><url>
-      <loc>https://www.guanhua.org/tags/</loc><lastmod>2024-07-15T09:57:13&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/tags/blog/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/categories/blog/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/categories/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/posts/build-blog-by-hugo/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/tags/hugo/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/posts/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
+      <loc>https://www.guanhua.org/tags/</loc><lastmod>2024-07-15T10:05:02&#43;08:00</lastmod></url><url>
       <loc>https://www.guanhua.org/tags/travel/</loc><lastmod>2024-07-15T09:57:13&#43;08:00</lastmod></url><url>
       <loc>https://www.guanhua.org/categories/travel/</loc><lastmod>2024-07-15T09:57:13&#43;08:00</lastmod></url><url>
       <loc>https://www.guanhua.org/posts/wuzhou_travel/</loc><lastmod>2024-07-15T09:57:13&#43;08:00</lastmod></url><url>
