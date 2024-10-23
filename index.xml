@@ -3,9 +3,19 @@
     <title>Guanhua’s Blog</title>
     <link>https://www.guanhua.org/</link>
     <description>Guanhua’s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 09:57:40 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 23:47:02 &#43;0800</lastBuildDate>
       <atom:link href="https://www.guanhua.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>利用 Cloudflare Workers 自建 Docker 镜像</title>
+  <link>https://www.guanhua.org/posts/90b85a7/</link>
+  <pubDate>Wed, 23 Oct 2024 23:47:02 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://www.guanhua.org/posts/90b85a7/</guid>
+  <description><![CDATA[创建 Workers 项目 具体搭建workers过程 可参考： hammal
+Workers 绑定一个自定义域名 默认的 workers.dev 域名会被墙
+二级域名的开通就不像其它服务商的域名解析那么简单。这一步当时搞了很久，因为本来在cloudflare就有一个域名，想通过新增一个二级域名，但是死活不生效。 最后还是注册一个新域名，然后新增一条DNS绑定workers即可 Workers 自定义路由 在宝塔配置好加速URL，可正常拉取docker镜像 宝塔配置加速URL ]]></description>
+</item>
+<item>
   <title>Github Pages &#43; Cloudflare 搭建博客</title>
   <link>https://www.guanhua.org/posts/build-blog-by-hugo/</link>
   <pubDate>Mon, 15 Jul 2024 09:57:40 &#43;0800</pubDate>
@@ -30,8 +40,7 @@
   <author>作者</author>
   <guid>https://www.guanhua.org/posts/my-first-post/</guid>
   <description><![CDATA[<div class="featured-image"><img loading="eager" src="images/cover_573865.png" alt="一切才刚刚开始" title="一切才刚刚开始" referrerpolicy="no-referrer"/></div>缘由 写blog的想法不知萌生了多少次，服务器每年都买一次，但是每次要不是半途而废，或者因为一些事搁浅了，其实就是自己不够坚持，所以人总要逼自己一把。
-希望在此借由文字或图片记录生活、以后老了还能作为一个回忆。
-VMCL 潮流的那些年 ]]></description>
+希望在此借由文字或图片记录生活、以后老了还能作为一个回忆。 VMCL 潮流的那些年 ]]></description>
 </item>
 </channel>
 </rss>
